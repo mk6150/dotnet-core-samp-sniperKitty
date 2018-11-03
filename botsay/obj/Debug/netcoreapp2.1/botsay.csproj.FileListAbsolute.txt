@@ -1,0 +1,11 @@
+C:\Users\marcel\Documents\dotnet-core-samp\botsay\bin\Debug\netcoreapp2.1\botsay.deps.json
+C:\Users\marcel\Documents\dotnet-core-samp\botsay\bin\Debug\netcoreapp2.1\botsay.runtimeconfig.json
+C:\Users\marcel\Documents\dotnet-core-samp\botsay\bin\Debug\netcoreapp2.1\botsay.runtimeconfig.dev.json
+C:\Users\marcel\Documents\dotnet-core-samp\botsay\bin\Debug\netcoreapp2.1\botsay.dll
+C:\Users\marcel\Documents\dotnet-core-samp\botsay\bin\Debug\netcoreapp2.1\botsay.pdb
+C:\Users\marcel\Documents\dotnet-core-samp\botsay\obj\Debug\netcoreapp2.1\botsay.csprojAssemblyReference.cache
+C:\Users\marcel\Documents\dotnet-core-samp\botsay\obj\Debug\netcoreapp2.1\botsay.csproj.CoreCompileInputs.cache
+C:\Users\marcel\Documents\dotnet-core-samp\botsay\obj\Debug\netcoreapp2.1\botsay.AssemblyInfoInputs.cache
+C:\Users\marcel\Documents\dotnet-core-samp\botsay\obj\Debug\netcoreapp2.1\botsay.AssemblyInfo.cs
+C:\Users\marcel\Documents\dotnet-core-samp\botsay\obj\Debug\netcoreapp2.1\botsay.dll
+C:\Users\marcel\Documents\dotnet-core-samp\botsay\obj\Debug\netcoreapp2.1\botsay.pdb
